@@ -1,0 +1,4 @@
+name: "shiftr"
+create_dir: false
+description: >
+ Template for creating shiftr template in postcards.

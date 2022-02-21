@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#old ignores
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store

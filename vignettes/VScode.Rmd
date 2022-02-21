@@ -1,0 +1,30 @@
+---
+title: Vignettes for the postcard package
+author: Anthony Davidson
+lastmod: '2021-12-16T23:30:40.392Z'
+---
+
+One option for editting package content and meta-data associated with R packages are vignettes. These are "long form" documentation of the functions and data associated with the package you are building. 
+
+This is a simple demo on how vignettes work with traditional and current R package building tools such as reoxygen2 and devtools.
+
+## Overview
+
+For a vignette to work with the functionality of an R package a `./vignettes/` folder needed to be created for each of the vignettes. 
+
+RMarkdown files can then be added to this folder with the following `yaml` header:
+
+```
+---
+title: your title
+output: vignette::
+---
+```
+
+The advantage of this is that the associated code chunks of the RMDs in the vignettes folder are all associated with the Package inforstructure that you have build iyour R functions around.
+
+```
+
+```
+
+

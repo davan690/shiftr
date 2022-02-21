@@ -1,0 +1,17 @@
+---
+title: "Anthony Davidson"
+image: "anthony.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::shiftr
+---
+ 
+I am a graduate student at the University of Canberra and research assistant at the Australian National University. I study Ecological systems and use html and css coding to help communicate the complex bayesian models I fit.

@@ -1,0 +1,23 @@
+Package: postcards
+Title: Create Beautiful, Simple Personal Websites
+Version: 0.2.3
+Authors@R: 
+    person(given = "Sean",
+           family = "Kross",
+           role = c("aut", "cre"),
+           email = "sean@seankross.com",
+           comment = c(ORCID = "0000-0001-5215-0316"))
+Description: A collection of R Markdown templates for creating simple and easy 
+  to personalize single page websites.
+License: MIT + file LICENSE
+URL: https://github.com/seankross/postcards
+BugReports: https://github.com/seankross/postcards/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    utils,
+    rmarkdown,
+    rstudioapi
+Suggests: 
+    testthat

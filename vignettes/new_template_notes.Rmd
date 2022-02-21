@@ -1,0 +1,19 @@
+---
+title: GITflow for new templates
+author: Anthony Davidson
+lastmod: '2021-12-19T22:51:55.581Z'
+---
+
+Using github and git version control for developing R packages has many advantages. Here are some quick notes on how I have used a general approach to using git for development called [gitflow]().
+
+## Adding new content to package
+
+The template I have build using bookdown and rmarkdown for generating dynamic CV content is very similar to this package however there are many additonal files and other loose ends within the repositiory that are not helpful for future development. I have attempted to clean this up by adding the postcards package is a template for my landing page template.
+
+1. To do this I have "forked" the original package "postcards" and then created a new development branch for my new template called "shiftr".
+
+2. The fork is also called this to help idenfity additional content being added in the new fork.
+
+The additional template includes some dynamic image boxes and application of the icon-fonts from google to create contact icons.
+
+These two additional variations on the current templates adds content that extends the basic approach of building single page landing pages for many tasks using R and `RMarkdown`.

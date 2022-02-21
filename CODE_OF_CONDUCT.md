@@ -1,5 +1,6 @@
 # Contributor Covenant Code of Conduct
 
+Developed from [postcards package]("https://github.com/seankross/postcards")
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our

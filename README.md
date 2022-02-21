@@ -1,8 +1,12 @@
 # shiftr
 
-An R package for the development of reproducible tools for small business
+<!-- badges: start -->
+<!--[![CRAN status](https://www.r-pkg.org/badges/version/postcards)](https://CRAN.R-project.org/package=postcards)
+[![R-CMD-check](https://github.com/seankross/postcards/workflows/R-CMD-check/badge.svg)](https://github.com/seankross/postcards/actions)-->
+<!-- badges: end -->
 
-**Original docs from postcards**
+Developed from [postcards package]("https://github.com/seankross/postcards"). **Original docs from [postcards]("https://github.com/seankross/postcards")**
+
 
 # postcards
 
